@@ -1,0 +1,1559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"cols"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"matrix",
+				"Matrix"
+			],
+			[
+				"ran",
+				"randmat"
+			],
+			[
+				"get",
+				"getrows"
+			],
+			[
+				"mat",
+				"Matrix"
+			],
+			[
+				"gauss",
+				"gaussian_elimination"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"line",
+				"Line3d"
+			],
+			[
+				"coi",
+				"COINCIDENT"
+			],
+			[
+				"inte",
+				"INTERSECT"
+			],
+			[
+				"Lin",
+				"LineRelation"
+			],
+			[
+				"lin",
+				"LineRelation"
+			],
+			[
+				"Li",
+				"LineRelation"
+			],
+			[
+				"poly",
+				"polygon"
+			],
+			[
+				"po",
+				"Polygon"
+			],
+			[
+				"V",
+				"_Vector3D"
+			],
+			[
+				"_p",
+				"_Point2D"
+			],
+			[
+				"al",
+				"alpha_codelen"
+			],
+			[
+				"re",
+				"return_object"
+			],
+			[
+				"req",
+				"request_bar"
+			],
+			[
+				"app",
+				"append_error_log"
+			],
+			[
+				"pus",
+				"publishedDate"
+			],
+			[
+				"isb",
+				"isbn_result"
+			],
+			[
+				"cate",
+				"Category"
+			],
+			[
+				"da",
+				"date_str"
+			],
+			[
+				"res",
+				"response0"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"identi",
+				"identifier"
+			],
+			[
+				"autho",
+				"Author"
+			],
+			[
+				"Boo",
+				"BookIdentifier"
+			],
+			[
+				"isbn",
+				"isbn_validator"
+			],
+			[
+				"book",
+				"book_info"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"se",
+				"SERIES"
+			],
+			[
+				"extr",
+				"extrafield_len"
+			],
+			[
+				"ext",
+				"extrafield"
+			],
+			[
+				"len",
+				"extrafield_len"
+			],
+			[
+				"file",
+				"filename_len"
+			],
+			[
+				"next",
+				"nextbit"
+			],
+			[
+				"max",
+				"MAX_CODE_LEN"
+			],
+			[
+				"return",
+				"ReturnState"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"retu",
+				"ReturnState"
+			],
+			[
+				"MAX",
+				"MAX_LCODE"
+			],
+			[
+				"istream",
+				"istream_iterator"
+			],
+			[
+				"soytw",
+				"SoytwZIP"
+			],
+			[
+				"loc",
+				"local_header_offset"
+			],
+			[
+				"locl",
+				"LOCAL_FILE_HEADER_SIZE"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"bit",
+				"BitsReader"
+			],
+			[
+				"string",
+				"stringstream"
+			],
+			[
+				"buf",
+				"buf_size"
+			],
+			[
+				"cb",
+				"cBit"
+			],
+			[
+				"zipf",
+				"zip_file_info"
+			],
+			[
+				"input",
+				"input_size"
+			],
+			[
+				"compre",
+				"compressed_size"
+			],
+			[
+				"inpu",
+				"input_size"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"dir",
+				"dir_size"
+			],
+			[
+				"cu",
+				"count_entry_here"
+			],
+			[
+				"cou",
+				"count_entry_total"
+			],
+			[
+				"fil",
+				"files_info"
+			],
+			[
+				"zip",
+				"zipfile"
+			],
+			[
+				"mod",
+				"moddate"
+			],
+			[
+				"ex",
+				"exter_attr"
+			],
+			[
+				"int",
+				"inter_attr"
+			],
+			[
+				"unco",
+				"uncompressed_size"
+			],
+			[
+				"comp",
+				"compressed_size"
+			],
+			[
+				"comment",
+				"comment_len"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"commen",
+				"comment_len"
+			],
+			[
+				"exf",
+				"extrafield_len"
+			],
+			[
+				"filename",
+				"filename_len"
+			],
+			[
+				"ma",
+				"MAX_BLOCK_SIZE"
+			],
+			[
+				"fin",
+				"filename_len"
+			],
+			[
+				"de",
+				"DEBUGMSG"
+			],
+			[
+				"block",
+				"block_size"
+			],
+			[
+				"row",
+				"_rows"
+			],
+			[
+				"_",
+				"_MatrixBase"
+			],
+			[
+				"Ma",
+				"Matrix"
+			],
+			[
+				"query",
+				"query2d"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"upd",
+				"update1d"
+			],
+			[
+				"updat",
+				"update1d"
+			],
+			[
+				"upda",
+				"update2d"
+			],
+			[
+				"set",
+				"SegTree"
+			],
+			[
+				"seg",
+				"SegTree2D"
+			],
+			[
+				"Se",
+				"SegTree"
+			],
+			[
+				"Seg",
+				"SegTree2D"
+			],
+			[
+				"S",
+				"SegTree"
+			],
+			[
+				"n",
+				"nullptr"
+			],
+			[
+				"tags-",
+				"tags-done"
+			],
+			[
+				"Pr",
+				"ProService"
+			],
+			[
+				"FOR",
+				"FOR_RANGE"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"pa",
+				"PATTERN"
+			],
+			[
+				"be",
+				"begin_month"
+			],
+			[
+				"nu",
+				"nums"
+			],
+			[
+				"pri",
+				"prizetype"
+			],
+			[
+				"ve",
+				"_Vector2D"
+			],
+			[
+				"poi",
+				"_Point2D"
+			],
+			[
+				"point",
+				"point_on_seg"
+			],
+			[
+				"vec",
+				"_Vector2D"
+			],
+			[
+				"vE",
+				"Vector"
+			],
+			[
+				"os",
+				"ostream"
+			],
+			[
+				"un",
+				"UNCOUNTABLE"
+			],
+			[
+				"poin",
+				"_Point2D"
+			],
+			[
+				"is",
+				"is_inter1D"
+			],
+			[
+				"__",
+				"__Segment2D"
+			],
+			[
+				"const",
+				"constexpr"
+			],
+			[
+				"Poin",
+				"__Point2D"
+			],
+			[
+				"v",
+				"__Vector2D"
+			],
+			[
+				"Ve",
+				"__Vector2D"
+			],
+			[
+				"ab",
+				"absence"
+			],
+			[
+				"R",
+				"RECORD"
+			],
+			[
+				"reco",
+				"recordKey"
+			],
+			[
+				"Pl",
+				"PLAY"
+			],
+			[
+				"FILE_",
+				"FILE_WRITE"
+			],
+			[
+				"pla",
+				"playPianoKey"
+			],
+			[
+				"SD",
+				"SD_PIN"
+			],
+			[
+				"ana",
+				"analogRead\tArduino analogRead"
+			],
+			[
+				"prin",
+				"printDirectory"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"di",
+				"digital"
+			],
+			[
+				"digita",
+				"digitalRead"
+			],
+			[
+				"music",
+				"musicsheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "geometry.h",
+			"settings":
+			{
+				"buffer_size": 8246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "geometry.sublime-project",
+			"settings":
+			{
+				"buffer_size": 351,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++14.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++14.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "sftp",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"tab ",
+				"View: Toggle Tabs"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"readl",
+				"Set File Readonly"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"perl",
+				"Permute Lines: Reverse"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"dispa",
+				"Package Control: Disable Package"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ar",
+				"Set Syntax: Arduino"
+			],
+			[
+				"ardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"jaa",
+				"Set Syntax: Java"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"++",
+				"Set Syntax: C++"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"asse",
+				"Set Syntax: x86 and x86_64 Assembly"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"PACKA",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Repository"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 720.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/yo/c/code.git/geometry"
+	],
+	"file_history":
+	[
+		"/C/Users/yo/c/code.git/geometry/test.cpp",
+		"/C/Users/yo/c/code.git/geometry/main.cpp",
+		"/C/Users/yo/c/code.git/matrix/matrix.sublime-project",
+		"/C/Users/yo/c/code.git/matrix/run.sublime-build",
+		"/C/Users/yo/c/code.git/matrix/matrix.h",
+		"/C/Users/yo/c/code.git/matrix/test.cpp",
+		"/C/Users/yo/.tu/.cache/libraries.plist",
+		"/C/Users/yo/Downloads/savethemblobs-master/savethemblobs.py",
+		"/C/Users/yo/Downloads/savethemblobs-master/savethemblobs.py.bak",
+		"/C/Users/yo/Downloads/savethemblobs-master/savefromdevice.py",
+		"/C/Users/yo/c/code.git/matrix/matrix.cpp",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/complex",
+		"/C/Users/yo/c/code.git/matrix/Makefile",
+		"/C/Users/yo/c/code.git/geometry/geometry.h",
+		"/C/TDM-GCC-64/x86_64-w64-mingw32/include/math.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/exception",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活6/OEBPS/toc.ncx",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活6/OEBPS/content.opf",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活6/OEBPS/Text/Section0007.xhtml",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活6/OEBPS/Text/Section0010.xhtml",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活6/OEBPS/Text/Section0001.xhtml",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活6/OEBPS/Text/Section0009.xhtml",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活7/iTunesMetadata.plist",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活8/iTunesMetadata.plist",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/Re：從零開始的異世界生活短篇集1/iTunesMetadata.plist",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/1/iTunesMetadata.plist",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/2/iTunesMetadata.plist",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/1/mimetype",
+		"/C/Users/yo/Music/iTunes/iTunes Media/Books/長月達平/1/OEBPS/Text/cover.xhtml",
+		"/C/Users/yo/Desktop/AERO_ArduinoV1.8.1/Aeroprobing/AeroprobingLDS/MUAV/AeroprobingLDS.h",
+		"/C/Users/yo/Desktop/AERO_ArduinoV1.8.1/Aeroprobing/AeroprobingLDS/MUAV/MUAV.ino",
+		"/C/Users/yo/Desktop/AERO_ArduinoV1.8.1/libraries/RF24-master/RF24.h",
+		"/C/Users/yo/Desktop/AERO_ArduinoV1.8.1/libraries/RF24-master/RF24.cpp",
+		"/C/Users/yo/Desktop/AERO_ArduinoV1.8.1/Aeroprobing/AeroprobingExample/MPU6050/MPU6050_DMP6/MPU6050_DMP6.ino",
+		"/C/Users/yo/Desktop/AERO_ArduinoV1.8.1/libraries/I2Cdev/I2Cdev.cpp",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/stl_vector.h",
+		"/C/Users/yo/c/code.git/a.cpp",
+		"/C/Users/yo/c/code.git/matrix.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/type_traits",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/stl_pair.h",
+		"/C/Users/yo/c/code.git/zip.cpp",
+		"//192.168.0.1/yo/libro_system/books/static/ajax_add_books.js",
+		"//192.168.0.1/yo/libro_system/books/templates/pages/add-books.html",
+		"//192.168.0.1/yo/libro_system/books/models.py",
+		"//192.168.0.1/yo/libro_system/books/utils.py",
+		"//192.168.0.1/yo/libro_system/books/templates/index.html",
+		"//192.168.0.1/yo/libro_system/books/add_books_ajax_views.py",
+		"//192.168.0.1/yo/libro_system/books/get_books_detail/get_book_detail.py",
+		"//192.168.0.1/yo/libro_system/books/get_books_detail/Google_Books_API.py",
+		"//192.168.0.1/yo/libro_system/books/get_books_detail/API_settings.py",
+		"//192.168.0.1/yo/libro_system/libro_system/settings.py",
+		"//192.168.0.1/yo/libro_system/libro_system/urls.py",
+		"//192.168.0.1/yo/libro_system/books/tests.py",
+		"//192.168.0.1/yo/libro_system/books/views.py",
+		"//192.168.0.1/yo/libro_system/books/get_books_detail/write_error_log.py",
+		"//192.168.0.1/yo/libro_system/books/static/main.js",
+		"//192.168.0.1/yo/libro_system/books/static/sb-admin-2/js/sb-admin-2.js",
+		"//192.168.0.1/yo/libro_system/books/static/sb-admin-2/dist/js/sb-admin-2.js",
+		"//192.168.0.1/yo/libro_system/books/templates/test_add_books.html",
+		"//192.168.0.1/yo/libro_system/templates/add_books.html",
+		"//192.168.0.1/yo/libro_system/books/templates/pages/dashboard.html",
+		"//192.168.0.1/yo/libro_system/books/templates/package.json",
+		"//192.168.0.1/yo/libro_system/books/templates/README.md",
+		"//192.168.0.1/yo/libro_system/books/templates/gulpfile.js",
+		"//192.168.0.1/yo/libro_system/books/templates/dist/js/sb-admin-2.js",
+		"//192.168.0.1/yo/libro_system/books/templates/pages/index.html",
+		"//192.168.0.1/yo/libro_system/books/templates/data/morris-data.js",
+		"//192.168.0.1/yo/libro_system/books/static/package.json",
+		"//192.168.0.1/yo/libro_system/books/static/README.md",
+		"//192.168.0.1/yo/libro_system/books/static/LICENSE",
+		"//192.168.0.1/yo/libro_system/books/templates/bower.json",
+		"//192.168.0.1/yo/libro_system/books/get_books_detail/API_settings_example.py",
+		"//192.168.0.1/yo/libro_system/ISBN_testing/get_book_detail.py",
+		"/C/Users/yo/Desktop/audio-compression-comparison/ImageDifferencer-1.0.1/README.md",
+		"//192.168.0.1/yo/libro_system/books/templates/startbootstrap-sb-admin-2/README.md",
+		"//192.168.0.1/yo/libro_system/books/templates/startbootstrap-sb-admin-2/LICENSE",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491705646/rezztech.cf.json/home/yo/libro_system/books/views.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491735246/rezztech.cf.json/home/yo/libro_system/books/utils.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491705639/rezztech.cf.json/home/yo/libro_system/books/models.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491705603/rezztech.cf.json/home/yo/libro_system/libro_system/urls.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491709697/rezztech.cf.json/home/yo/libro_system/libro_system/settings.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491709748/rezztech.cf.json/home/yo/libro_system/books/utils.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491731344/rezztech.cf.json/home/yo/libro_system/books/migrations/0001_initial.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491730528/rezztech.cf.json/home/yo/libro_system/books/migrations/0001_initial.py",
+		"/C/users/yo/appdata/local/temp/sublime-sftp-browse-1491705622/rezztech.cf.json/home/yo/libro_system/books/apps.py",
+		"/C/Users/yo/c/code.git/z.zip",
+		"/C/Users/yo/c/code.git/out.txt",
+		"/C/Users/yo/Downloads/miniz.c",
+		"/C/Users/yo/c/code.git/templates/z.zip",
+		"/C/Users/yo/c/code.git/templates/zip.cpp",
+		"/C/Users/yo/c/code.git/templates/bignum.h",
+		"/C/Users/yo/c/code.git/templates/out.txt",
+		"/C/Users/yo/c/bf.cpp",
+		"/C/Users/yo/c/in.txt",
+		"/C/Users/yo/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/C/Users/yo/AppData/Roaming/Sublime Text 3/Packages/User/C++std.sublime-snippet",
+		"/C/Users/yo/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/C/Users/yo/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/C/Users/yo/c/a.py",
+		"/C/Users/yo/c/a.cpp",
+		"/C/Users/yo/c/a.exe",
+		"/C/Users/yo/c/b.cpp",
+		"/C/Users/yo/c/abccc.zip",
+		"//192.168.0.1/yo/VIDEO/AttackOnTitan/dl.sh",
+		"/C/Users/yo/Desktop/dl.py",
+		"//192.168.0.1/yo/VIDEO/AttackOnTitan/dl.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/yo/c/code.git/templates/bignum.cpp",
+		"//192.168.0.1/yo/mysisterOST/mysisterOST.txt",
+		"//192.168.0.1/yo/mysisterOST/mysisterOST2.txt",
+		"//192.168.0.1/yo/mysisterOST/run.sh",
+		"/C/Users/yo/Desktop/mysisterOST.txt",
+		"/C/Users/yo/c/code.git/templates/a.cpp",
+		"/C/Users/yo/c/code.git/templates/fft.h",
+		"/C/Users/yo/c/code.git/templates/matrix.cpp",
+		"/C/Users/yo/c/code.git/templates/matrix.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/stl_iterator.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/valarray",
+		"/C/Users/yo/c/code.git/templates/FFT.cpp",
+		"/C/TDM-GCC-64/x86_64-w64-mingw32/include/stdlib.h",
+		"/C/TDM-GCC-64/x86_64-w64-mingw32/include/stdio.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/cfloat",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/algorithm",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/basic_string.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/bits/exception_ptr.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/climits",
+		"/C/TDM-GCC-64/x86_64-w64-mingw32/include/limits.h",
+		"/C/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/ext/pb_ds/assoc_container.hpp"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Matrix",
+			"Matrix&",
+			"Matrix ",
+			"operator",
+			"Matrix<T>::operator",
+			"friend",
+			"exception",
+			"error",
+			"_cols",
+			"_rows",
+			"return",
+			"throw",
+			"getrows()",
+			"getcols()",
+			"_cols",
+			"_rows",
+			"vector",
+			"$",
+			"\\n",
+			"gauss",
+			"gauss_jordan",
+			"todo",
+			" > ",
+			" < ",
+			"!=",
+			"==",
+			"_gauss_jordan",
+			"gauss",
+			"endif",
+			"_gauss",
+			"_arr",
+			"double",
+			"pow",
+			"identity",
+			"identi",
+			"size_t",
+			"swap",
+			"invalid_argument",
+			"vector",
+			"_cols",
+			"_rows",
+			"vector",
+			"T_",
+			"UNCOUNTABLE",
+			"_Polygon3D",
+			"_Segment3D",
+			"base",
+			"_Point3D",
+			"_Line3D",
+			"Point3D",
+			"Vector3D",
+			"_Vector3D",
+			"2D",
+			"<T>",
+			"Vector2D",
+			"Vector2D<T>",
+			"template<typename T>",
+			"_Vector2D<T>",
+			"json",
+			"datetime",
+			"urlopen",
+			"csrf",
+			"isbn_validator",
+			"map",
+			"js",
+			"../",
+			"\"([^\"]*.(css|js))\"",
+			"(\"[^\"]*.(css|js)\")",
+			"API_settings",
+			"MAX_STRING_LEN",
+			"extrafield_len",
+			"extrafield",
+			"local",
+			"seekg",
+			"block",
+			"unsupp",
+			"BitsReader",
+			"offset",
+			"dump_stored",
+			"FileInfo",
+			"info.",
+			"max_buffer_size",
+			"DataReader",
+			"zipfile",
+			"input.",
+			"->",
+			"zipfile->",
+			"cout",
+			"ff",
+			"decode",
+			"&",
+			"decompress",
+			"buffer",
+			"decode",
+			" & ",
+			"&",
+			"*(uint32_t*)(",
+			"*(uint16_t*)(",
+			"block",
+			"MAX_FILE_COUNT",
+			"\n        ",
+			"0506",
+			"504b",
+			"offset",
+			"disk",
+			"extract_version",
+			"needed_version",
+			"extract_version",
+			"archive_file_stat",
+			"pStat",
+			"mz_zip_internal_state",
+			"pStat",
+			"reader_file_stat",
+			"header",
+			"reader",
+			"16",
+			"32",
+			"read_",
+			"Byte",
+			"byte",
+			"header",
+			"date",
+			"m_pfile",
+			"fread",
+			"mz_zip_file_read_func",
+			"fopen",
+			"m_pread",
+			"parse"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Matrix<T_>",
+			"Matrix<T>&",
+			"Matrix<T> ",
+			"Matrix<T>::operator",
+			"operator",
+			"cols()",
+			"rows()",
+			"\n        ",
+			"rows()",
+			"cols()",
+			"cols",
+			"rows",
+			"array",
+			"\n    ",
+			"<br/>",
+			"<br>",
+			"<br>\\n",
+			"<br>",
+			"std::size_t",
+			"getcols()",
+			"getrows()",
+			"point",
+			"3D",
+			"",
+			"Vector3D",
+			"friend ",
+			"_Vector2D",
+			"",
+			"\"{% static '\\1' %}\"",
+			"\"{% static \\1 %}\"",
+			"\"{% static \"\\1\"%}\"",
+			"MAX_CHAR_FIELD_LEN",
+			"info->",
+			"input->",
+			"zipfile.",
+			"read32(",
+			"read16(",
+			"話ED",
+			"mp3 第0話 \\1.mp3",
+			"IntMatrix",
+			"U>",
+			"_MatrixBase",
+			"U",
+			"Matrix<T>",
+			"template<typename T>\\nMatrix<T>",
+			"\n#",
+			"tags",
+			" ",
+			"",
+			"君(きみ)",
+			" ",
+			"",
+			"前前前世(ぜんぜんぜんせ)",
+			" ",
+			")",
+			"(",
+			")",
+			" ",
+			")",
+			"(",
+			" ",
+			")",
+			"(",
+			"世界(せかい)",
+			"　",
+			"今日(きょう)",
+			" ",
+			")",
+			"(",
+			"th",
+			"</th>",
+			"<th>",
+			"Noto Sans TC",
+			"",
+			" ",
+			"",
+			"double ",
+			"double",
+			"template _",
+			"template ",
+			"",
+			"template Geometry::",
+			"Geometry::_Vector2D<double>::operator",
+			";",
+			"Geometry::_Vector2D<double>",
+			".y()",
+			".x()",
+			"",
+			"Geometry::__Vector2D<T>",
+			"__Vector2D",
+			"",
+			"Vector2D<T>",
+			"",
+			"    {\\1, \\2},",
+			"{\\1,\\2},",
+			"- [",
+			"'x'",
+			"<a class=\"logo\" href=\"\">",
+			"size_t",
+			"uint8_t",
+			"float",
+			"uint8_t",
+			"",
+			"\"\\1\" => \"\\2\",",
+			"",
+			"mb_substr($s,$i,1)",
+			"_BigNum",
+			"arr",
+			"__arr",
+			"",
+			"set",
+			"clr",
+			"nd->rs",
+			"nd->ls",
+			"Node* nd",
+			"",
+			"nd->rs->",
+			"nd->ls->",
+			"nd->",
+			"Node* nd",
+			"nd->rs->",
+			"nd->ls->",
+			"nd->",
+			"%lld",
+			"%d",
+			"i",
+			"int",
+			"seg[nd]."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "geometry.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4446,
+								4446
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4362.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "geometry.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 190.0
+	},
+	"output.sftp":
+	{
+		"height": 190.0
+	},
+	"pinned_build_system": "Compile & Run",
+	"project": "geometry.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\yo\\Downloads\\miniz.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\yo\\Google 雲端硬碟\\排名賽\\contest.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
